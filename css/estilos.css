@@ -1,0 +1,35 @@
+body {
+    background:#990098; 
+    color: black; 
+    fon-size: 15;
+    face: Optima;
+}
+form{
+   font-size:18px;
+   color:black;
+   border-radius:7px;
+   background-color:#D879D8;
+   border:1px dotted #B8BFCB;
+   padding:10px;
+
+}
+#boton_Ingresar{
+   padding:6px 30px;
+   background-color:#1A237E;
+   color: black;
+   font-size:14px;
+}
+#boton_Borrar{
+   padding:6px 30px;
+   background-color:#1A237E;
+   color: black;
+   font-size:14px;
+}
+input{
+   background-color:pink;
+   border-radius:3px;
+   color:#607D8B;
+   font-size:16px;
+   padding:3px 3px 3px 10px;
+   outline: none;
+}
